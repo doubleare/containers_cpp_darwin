@@ -1,0 +1,6 @@
+#include "Tree-map-set/s21_map.h"
+#include "Tree-map-set/s21_set.h"
+#include "s21_Queue.h"
+#include "s21_Stack.h"
+#include "s21_list.h"
+#include "s21_vector.h"
